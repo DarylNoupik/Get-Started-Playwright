@@ -54,7 +54,5 @@ This repository contains test scripts written in TypeScript using the Playwright
 To execute the tests, use the following command-line options:
 
 ```bash
-npm install
-
-npx playwright test
+npm run test -- --browser=<browser-name>
 ```
