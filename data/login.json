@@ -1,6 +1,6 @@
 {
-    "name": "John Doe",
-    "email": "john4.doe@example.com",
-    "validPassword": "password123",
-    "invalidPassword": "invalidpassword123"
+  "name": "John Doe",
+  "email": "john4.doe@example.com",
+  "validPassword": "password123",
+  "invalidPassword": "invalidpassword123"
 }

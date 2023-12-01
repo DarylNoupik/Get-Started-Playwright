@@ -1,10 +1,12 @@
 {
-    "products": [
-        {
-          "name": "Blue Top"
-        },
-        {
-          "name": "Summer White Top"
-        }
-      ]
+  "products": [
+    {
+      "name": "Blue Top"
+    },
+    {
+      "name": "Grunt Blue Slim Fit Jeans"
+    }
+  ],
+  "expectedName": "Blue",
+  "UnexpectedName": "Yellow"
 }

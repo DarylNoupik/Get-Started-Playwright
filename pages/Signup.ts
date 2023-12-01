@@ -23,7 +23,8 @@ async clickSignupButton() {
   async verifyAccountInformation() {
     const textElement2 = await this.page.locator('text=ENTER ACCOUNT INFORMATION');
     const isTextVisible2 = await textElement2.isVisible();
-    expect(isTextVisible2).toBe(true); 
+    expect(isTextVisible2).
+    toBe(true); 
   }
 
   async fillAccountDetails(details: any) {
